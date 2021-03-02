@@ -3,3 +3,12 @@ Description: This project uses NLP models to classify tweets as one of the follo
 
 Files:
 
+Statistical Software Final Report.pdf - A report of the project
+
+all_tweets.csv - A collection of 44,746 filtered tweets with the first token of each line corresponding to the tweet's actual hashtag
+
+Stat Software Tweet Collection.ipynb - notebook to collect tweets
+
+Stat Software Tweet Cleaning.ipynb - notebook to clean and filter tweets
+
+Stat Software Tweet Model Building - notebook to build all models and evaluate their accuracy
